@@ -26,6 +26,7 @@
 - Vite https://vitejs.dev/guide/api-javascript.html
 - Babel https://babeljs.io/docs/en/
 - PostCSS https://postcss.org/api/
+- Lerna https://lerna.js.org/docs/api-reference/commands
 - Npm https://docs.npmjs.com/cli/v8/commands
 - Yarn https://classic.yarnpkg.com/en/docs
 - Pnpm https://pnpm.io/motivation
