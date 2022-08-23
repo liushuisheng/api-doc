@@ -7,11 +7,8 @@
 
 - React https://reactjs.org/docs/react-api.html
 - React（中文）http://react.caibaojian.com.cn/docs/react-api.html
-
 - Typescript https://www.typescriptlang.org/docs/
-
 - Typescript（中文） https://www.tslang.cn/docs/home.html
-
 - React-router https://reactrouter.com/docs/en/v6
 - Redux https://redux.js.org/api/api-reference
 - Mobx https://zh.mobx.js.org/README.html
@@ -33,6 +30,8 @@
 - PostCSS https://postcss.org/api/
 - Sass https://sass-lang.com/documentation/js-api/
 - Less https://lesscss.org/
+- tailwindcss https://tailwindcss.com/docs/installation
+- tailwindcss（中文）https://www.tailwindcss.cn/docs
 - Lerna https://lerna.js.org/docs/api-reference/commands
 - Npm https://docs.npmjs.com/cli/v8/commands
 - Yarn https://classic.yarnpkg.com/en/docs
