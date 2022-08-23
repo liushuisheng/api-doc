@@ -24,6 +24,7 @@
 - Webpack（中文）https://webpack.docschina.org/
 - git https://git-scm.com/book/zh/v2
 - Rollup https://rollupjs.org/guide/en/
+- Rollup（中文）https://www.rollupjs.com/
 - Vite https://vitejs.dev/guide/api-javascript.html
 - Babel https://babeljs.io/docs/en/
 - PostCSS https://postcss.org/api/
