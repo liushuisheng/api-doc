@@ -66,6 +66,7 @@
 - Flutter https://docs.flutter.dev/
 
 ##### 第三方开放文档
+- vscode api文档 https://code.visualstudio.com/api
 - 微信公众号jssdk https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html
 - 微信小程序 https://developers.weixin.qq.com/miniprogram/dev/framework/
 - 微信支付接入文档 https://pay.weixin.qq.com/wiki/doc/apiv3/index.shtml
