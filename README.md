@@ -54,6 +54,10 @@
 - Pnpm https://pnpm.io/motivation
 - Babel https://babeljs.io/docs/en/
 - PostCSS https://postcss.org/api/
+- ESLint https://eslint.org/docs/latest/
+- ESLint（中文）http://eslint.cn/
+- Prettier https://prettier.io/
+- Prettier（中文） https://www.prettier.cn/
 
 ##### node生态
 - Express http://expressjs.com/en/4x/api.html
