@@ -11,7 +11,7 @@
 - single-spa https://zh-hans.single-spa.js.org/docs/
 ##### 前端框架及生态
 - React https://reactjs.org/docs/react-api.html
-- React（中文）http://react.caibaojian.com.cn/docs/react-api.html
+- React（中文） https://zh-hans.reactjs.org
 - React-router https://reactrouter.com/docs/en/v6
 - Redux https://redux.js.org/api/api-reference
 - Mobx https://zh.mobx.js.org/README.html
