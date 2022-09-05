@@ -11,7 +11,7 @@
 - single-spa https://zh-hans.single-spa.js.org/docs/
 ##### 前端框架及生态
 - React https://reactjs.org/docs/react-api.html
-- React（中文）http://react.caibaojian.com.cn/docs/react-api.html
+- React（中文） https://zh-hans.reactjs.org
 - React-router https://reactrouter.com/docs/en/v6
 - Redux https://redux.js.org/api/api-reference
 - Mobx https://zh.mobx.js.org/README.html
@@ -54,6 +54,10 @@
 - Pnpm https://pnpm.io/motivation
 - Babel https://babeljs.io/docs/en/
 - PostCSS https://postcss.org/api/
+- ESLint https://eslint.org/docs/latest/
+- ESLint（中文）http://eslint.cn/
+- Prettier https://prettier.io/
+- Prettier（中文） https://www.prettier.cn/
 
 ##### node生态
 - Express http://expressjs.com/en/4x/api.html
@@ -66,6 +70,7 @@
 - Flutter https://docs.flutter.dev/
 
 ##### 第三方开放文档
+- vscode api文档 https://code.visualstudio.com/api
 - 微信公众号jssdk https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html
 - 微信小程序 https://developers.weixin.qq.com/miniprogram/dev/framework/
 - 微信支付接入文档 https://pay.weixin.qq.com/wiki/doc/apiv3/index.shtml
@@ -74,6 +79,7 @@
 - MDN中文文档 https://developer.mozilla.org/zh-CN/docs/Web/Tutorials
 - 阮一峰ES5学习文档 http://javascript.ruanyifeng.com/
 - 阮一峰ES6学习文档 https://es6.ruanyifeng.com/
+- ts实操练习 https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md
 - 比较全面的学习路径 https://cfz6pr2brp.feishu.cn/base/appiHELqQxL9uyOqlNjMQQhOEUI
 
 #### 后端
