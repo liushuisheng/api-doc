@@ -58,6 +58,7 @@
 - ESLint（中文）http://eslint.cn/
 - Prettier https://prettier.io/
 - Prettier（中文） https://www.prettier.cn/
+- Verdaccio https://verdaccio.org/zh-cn/docs/what-is-verdaccio/
 
 ##### node生态
 - Express http://expressjs.com/en/4x/api.html
