@@ -43,6 +43,7 @@
 - Webpack https://webpack.js.org/concepts/
 - Webpack（中文）https://webpack.docschina.org/
 - Vite https://vitejs.dev/guide/api-javascript.html
+- Esbuild https://esbuild.github.io/
 - Rollup https://rollupjs.org/guide/en/
 - Rollup（中文）https://www.rollupjs.com/
 - Lerna https://lerna.js.org/docs/api-reference/commands
