@@ -82,6 +82,7 @@
 - 阮一峰ES5学习文档 http://javascript.ruanyifeng.com/
 - 阮一峰ES6学习文档 https://es6.ruanyifeng.com/
 - ts实操练习 https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md
+- 深入理解TS https://jkchao.github.io/typescript-book-chinese/
 - 比较全面的学习路径 https://cfz6pr2brp.feishu.cn/base/appiHELqQxL9uyOqlNjMQQhOEUI
 
 #### 后端
